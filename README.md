@@ -1,5 +1,5 @@
 # Welcome to Ask Cupid :heart:
-<img src="url_to_your_logoll" width="200">
+<img src="src/cupid.png" width="150">
 
 <a id=introduction></a>
 
@@ -43,21 +43,49 @@ Embrace the journey, connect deeply, and make every moment count!
 
 ### The Strategy
 
+- The primary goal of the Ask Cupid app's initial version is to enhance romantic connections through a strong emphasis on detailed partner profiles.
+- The strategy centers around providing users with a platform to create comprehensive profiles that reflect their personalities, interests, and relationship preferences.
+- This approach aims to lay the foundation for meaningful and personalized interactions, setting the stage for deeper connections.
+
+
+
 <a id="the-scope"></a>
 
 ### The Scope
+
+- The core scope of the first version revolves around users creating detailed profiles specifically for their partners.
+- Users are encouraged to share comprehensive information about their partners, fostering a more profound understanding of their personalities and preferences.
+- While the initial release focuses on text-based interactions, future iterations may extend to incorporate multimedia elements for a richer user experience.
+
+
 
 <a id="the-structure"></a>
 
 ### The Structure
 
+- The app structure prioritizes the creation of detailed partner profiles as the central feature.
+- User-friendly interfaces guide users through the partner profile creation process, ensuring a seamless and enjoyable experience.
+- Conversation starters and personalized suggestions complement the partner profile-centric structure, offering avenues for engaging interactions.
+
+
 <a id="the-skeleton"></a>
 
 ### The Skeleton
 
+- Wireframes were crafted with a strong emphasis on the partner profile creation process, ensuring a user-friendly and intuitive design.
+- The wireframes provide a strategic visualization, highlighting the importance of detailed partner profiles in the app's structure.
+
+  - [Wireframes Mobile](/documents/wireframes/mobile/)
+  - [Wireframes Desktop](/documents/wireframes/desktop/)
+
 <a id="the-surface"></a>
 
 ### The Surface
+
+- The final design reflects a clean and visually appealing interface, with a spotlight on partner profiles.
+- A modern and intuitive layout encourages users to create detailed profiles for their partners, fostering a sense of authenticity and depth in the connections made through the app.
+- The decision to prioritize partner profiles underscores the app's commitment to facilitating genuine connections and meaningful conversations.
+- This intentional design choice aims to create a space where users can delve into the intricacies of their partners' personalities, building a foundation for lasting and authentic relationships.
 
 <a id="ux"></a>
 
@@ -66,6 +94,22 @@ Embrace the journey, connect deeply, and make every moment count!
 <a id="first-time-user"></a>
 
 ### First Time User
+
+- As a first-time user, I'd like to easily see where I can sign up so I can get started.
+There should be a prominent and easily accessible "Sign Up" button on the landing page.
+The sign-up process should be straightforward with clear instructions.
+Minimal required information during sign-up to encourage a quick and hassle-free onboarding experience.
+
+- As a first-time user, I'd like to feel welcomed to the site so I'd feel the desire to come back.
+The landing page should feature a warm and inviting design with visually appealing elements.
+Upon successful sign-up, the user should receive a personalized welcome message or prompt.
+Clear navigation cues and tooltips should guide the user to explore key features and sections.
+
+
+- As a first-time user, I'd like instructions on what to do so I can get started quickly.
+Provide an onboarding tutorial or guide that highlights key features and how to navigate the app.
+Include tooltips or pop-ups explaining the purpose of each section or button.
+Offer a "Getting Started" section with concise instructions on creating the first partner profile and initiating a conversation.
 
 <a id="returning-user"></a>
 
