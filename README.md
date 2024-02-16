@@ -1,5 +1,5 @@
 # Welcome to Ask Cupid :heart:
-
+<img src="url_to_your_logo" width="200">
 
 <a id=introduction></a>
 
@@ -32,3 +32,45 @@ Embrace the journey, connect deeply, and make every moment count!
 
 
 <a id=responsive></a>
+
+### Am I Responsive?
+
+<a id=ux></a>
+
+## UX
+
+<a id="the-strategy"></a>
+
+### The Strategy
+
+<a id="the-scope"></a>
+
+### The Scope
+
+<a id="the-structure"></a>
+
+### The Structure
+
+<a id="the-skeleton"></a>
+
+### The Skeleton
+
+<a id="the-surface"></a>
+
+### The Surface
+
+<a id="ux"></a>
+
+# User Experience
+
+<a id="first-time-user"></a>
+
+### First Time User
+
+<a id="returning-user"></a>
+
+### Returning User
+
+<a id="frequent-user"></a>
+
+### Frequent User
