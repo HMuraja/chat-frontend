@@ -1,5 +1,5 @@
 # Welcome to Ask Cupid :heart:
-<img src="url_to_your_logo" width="200">
+<img src="url_to_your_logoll" width="200">
 
 <a id=introduction></a>
 
