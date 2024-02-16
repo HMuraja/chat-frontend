@@ -115,6 +115,17 @@ Offer a "Getting Started" section with concise instructions on creating the firs
 
 ### Returning User
 
+- As a returning user, I'd like to see the results for my previous profiles so I can reflect on past .
+Provide a clear and easily accessible "View Results" or "Previous Profiles" section.
+Display a summary or detailed view of the results from past partner profiles.
+Include an option to revisit and edit previous profiles if desired.
+
+- As a returning user, I'd love to be able to input my own info as well so I can make the experience more real and personalized.
+Enable users to easily navigate to the "Create Profile" section.
+Provide an option to input and save personal information to create their own profiles.
+Allow users to switch seamlessly between creating profiles for others and creating profiles for themselves.
+
+
 <a id="frequent-user"></a>
 
 ### Frequent User
