@@ -129,3 +129,18 @@ Allow users to switch seamlessly between creating profiles for others and creati
 <a id="frequent-user"></a>
 
 ### Frequent User
+
+- As a frequent user, I'd love to see more categories so I can get a more precise result.
+Expand the range of categories available for creating partner profiles.
+Include options for specific interests, hobbies, and lifestyle preferences.
+Enhance the algorithm to provide more nuanced and precise match results based on the additional categories.
+
+- As a frequent user, I'd like to match myself with different partners and see which matches the best.
+Introduce a "Match Yourself" feature where users can simulate matches with various partner profiles.
+Display a compatibility score or summary for each simulated match.
+Allow users to compare results and gain insights into compatibility patterns.
+
+- As a frequent user, I'd like our song to be displayed so I can add a personalized touch to my interactions.
+Include an option for users to set a personalized "Our Song" for each partner profile.
+Display the chosen song prominently within the partner profile or during interactions.
+Allow users to change or update their chosen song for a dynamic and personalized experience.
