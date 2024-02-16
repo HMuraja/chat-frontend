@@ -1,5 +1,5 @@
 # Welcome to Ask Cupid :heart:
-<img src="src/cupid.png" width="150">
+<p align="center"><img src="src/cupid.png"  width="150"> </p>
 
 <a id=introduction></a>
 
