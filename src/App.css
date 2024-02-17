@@ -1,11 +1,23 @@
 .App {
   text-align: center;
-  background-color: #ece9c1;
+  background-color: #ffdee6;
   min-height: 100vh;
 }
 
 .Main {
   padding-top: 100px;
+}
+
+.nav-link {
+  color: #e26e7e;
+  font-weight: bold;
+}
+
+.custom-button {
+  background-color: #e26e7e;
+  color: white;
+  font-weight: bold;
+  border: none;
 }
 
 

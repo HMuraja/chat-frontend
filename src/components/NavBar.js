@@ -9,11 +9,11 @@ const NavBar = () => {
 
         <Navbar.Brand className={styles.NavMenuLogo}>
           <img src={logo} alt="logo" height="45" />
-          <p>Ask Cupid</p>
+          <p> Ask Cupid</p>
         </Navbar.Brand>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="m-3"/>
-        
+
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
             <Nav.Link>

@@ -10,8 +10,8 @@ const LandingPage = () => {
         <img src={logo} className={styles.AppLogo} alt="logo" />
         <p>Do you want to ask help from Cupid?</p>
         <Container >
-          <Button href="" variant="secondary" className="m-2">Login</Button>
-          <Button href="" variant="secondary"className="m-2">Signup</Button>
+          <Button href="" variant="secondary" className="m-2 custom-button">Login</Button>
+          <Button href="" variant="secondary" className="m-2 custom-button">Signup</Button>
         </Container>
 
     </div>
