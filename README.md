@@ -41,7 +41,7 @@ What are you waiting for? Sign up now, enter your partner's information, and let
   - [Returning User](#returning-user)
   - [Frequent User](#frequent-user)
   - [Design](#design)
-- [Feauters](#feauters)
+- [Features](#features)
 - [Language](#language)
   - [Tools](#tools)
   - [Frameworks & Libaries](#frameworks-libaries)
@@ -59,7 +59,7 @@ What are you waiting for? Sign up now, enter your partner's information, and let
   - [Images](#images)
   - [Thank You](#thank-you)
 - [The Team](#team)
-  
+
 
 
 <a id=responsive></a>
@@ -192,6 +192,6 @@ Allow users to change or update their chosen song for a dynamic and personalized
 
 ### Design
 
-<a id="feauters">
+<a id="features">
 
 #  Features
