@@ -1,15 +1,27 @@
 # Welcome to Ask Cupid :heart:
-<p align="center"><img src="src/cupid.png"  width="150"> </p>
+<img src="src/cupid.png"  width="150">
 
 <a id=introduction></a>
+# Team2's Hackathon App
 
-The app that goes beyond the ordinary to enrich your\
-connections and elevate your gifting game. Designed to provide tailored\
-suggestions for both gifts and dreamy holiday destinations,\
-**Ask Cupid** is your ultimate companion for creating unforgettable moments.\
-What are you waiting for? Sign up, enter your partner's info and let \
-Ask Cupid inspire your next unforgettable experience.\
-Embrace the journey, connect deeply, and make every moment count!
+Welcome to Team2's app for the Hackathon competition — an extraordinary venture that aims to elevate your connections and redefine your gifting experiences. Our app goes beyond the ordinary, providing tailored suggestions for both gifts and dreamy holiday destinations.
+
+**Introducing Ask Cupid!** Your ultimate companion for creating unforgettable moments. Whether you're searching for the perfect gift or planning a dreamy holiday, Ask Cupid is here to inspire and guide you.
+
+## What Ask Cupid Offers:
+
+- **Tailored Gift Suggestions:**
+  - Receive personalized recommendations for gifts that will leave a lasting impression.
+
+- **Dreamy Holiday Destinations:**
+  - Explore curated suggestions for unforgettable holiday destinations, designed just for you.
+
+## How to Get Started:
+
+What are you waiting for? Sign up now, enter your partner's information, and let Ask Cupid be the catalyst for your next unforgettable experience. Embrace the journey, connect deeply, and make every moment count!
+
+**Ready to create magic? Join us and let's make this Hackathon a journey to remember!**
+
 
 
 # Content
@@ -29,6 +41,25 @@ Embrace the journey, connect deeply, and make every moment count!
   - [Returning User](#returning-user)
   - [Frequent User](#frequent-user)
   - [Design](#design)
+- [Feauters](#feauters)
+- [Language](#language)
+  - [Tools](#tools)
+  - [Frameworks & Libaries](#frameworks-libaries)
+- [Testing](#testing)
+  - [Manual Testing](#manual-testing)
+  - [Lighthouse](#lighthouse)
+  - [Browser Test](#browser-test)
+  - [Validation](#validation)
+  - [Bugs](#bugs)
+- [Deployment](#deployment)
+  - [Deployment To Github](#deployment-to-github)
+  - [Deployment to Heroku](#heroku-deployment)
+- [Credit](#credit)
+  - [Content](#credit-content)
+  - [Images](#images)
+  - [Thank You](#thank-you)
+- [The Team](#team)
+  
 
 
 <a id=responsive></a>
@@ -75,14 +106,25 @@ Embrace the journey, connect deeply, and make every moment count!
 - Wireframes were crafted with a strong emphasis on the partner profile creation process, ensuring a user-friendly and intuitive design.
 - The wireframes provide a strategic visualization, highlighting the importance of detailed partner profiles in the app's structure.
 
-  - [Wireframes Mobile](/documents/wireframes/mobile/)
-  - [Wireframes Desktop](/documents/wireframes/desktop/)
+  - [View More Wireframes](src/assets/wireframes)
+
+  <img src="src/assets/wireframes/wireframe_1_landing_page.png" width="150" >
+
+
 
 <a id="the-surface"></a>
 
 ### The Surface
 
-- The final design reflects a clean and visually appealing interface, with a spotlight on partner profiles.
+### Technology Stack
+
+The Ask Cupid app is built using a modern and robust technology stack, combining the power of React and Django to deliver a seamless and feature-rich user experience.
+
+- **Frontend:** Developed with React, the app boasts a clean and visually appealing interface, providing an intuitive layout for users.
+
+- **Backend:** Powered by Django, our backend ensures the efficient processing of data, contributing to the app's commitment to facilitating genuine connections and meaningful conversations.
+
+These technologies work in harmony to create a space where users can delve into the intricacies of their partners' personalities, building a foundation for lasting and authentic relationships.
 - A modern and intuitive layout encourages users to create detailed profiles for their partners, fostering a sense of authenticity and depth in the connections made through the app.
 - The decision to prioritize partner profiles underscores the app's commitment to facilitating genuine connections and meaningful conversations.
 - This intentional design choice aims to create a space where users can delve into the intricacies of their partners' personalities, building a foundation for lasting and authentic relationships.
@@ -144,3 +186,12 @@ Allow users to compare results and gain insights into compatibility patterns.
 Include an option for users to set a personalized "Our Song" for each partner profile.
 Display the chosen song prominently within the partner profile or during interactions.
 Allow users to change or update their chosen song for a dynamic and personalized experience.
+
+<a id="design">
+
+
+### Design
+
+<a id="feauters">
+
+#  Features
